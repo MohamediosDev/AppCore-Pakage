@@ -1,1 +1,2 @@
-# AppCore-Pakage
+# AppCore
+** App Core **
